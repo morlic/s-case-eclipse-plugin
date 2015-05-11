@@ -14,7 +14,7 @@ import org.eclipse.ui.IWorkbench;
 import org.eclipse.ui.PlatformUI;
 import org.junit.Test;
 
-import eu.scasefp7.eclipsecore.actions.SampleAction;
+import eu.scasefp7.eclipse.core.actions.SampleAction;
 
 public class ITP01Test {
 
