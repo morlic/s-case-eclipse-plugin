@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>eu.scasefp7.eclipseplugin</groupId>
-    <artifactId>eclipsecore</artifactId>
+    <groupId>eu.scasefp7.eclipse</groupId>
+    <artifactId>core</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>eu.scasefp7.eclipsecore</artifactId>
+  <artifactId>eu.scasefp7.eclipse.core</artifactId>
   <packaging>eclipse-plugin</packaging>
 
 </project>
